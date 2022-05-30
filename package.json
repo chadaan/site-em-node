@@ -1,0 +1,25 @@
+{
+  "name": "site-em-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadaan/site-em-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadaan/site-em-node/issues"
+  },
+  "homepage": "https://github.com/chadaan/site-em-node#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
